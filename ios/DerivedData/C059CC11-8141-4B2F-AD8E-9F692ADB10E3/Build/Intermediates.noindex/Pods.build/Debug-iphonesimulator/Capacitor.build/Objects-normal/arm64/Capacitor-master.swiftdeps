@@ -1,0 +1,39 @@
+version: "Apple Swift version 5.6 (swiftlang-5.6.0.323.62 clang-1316.0.20.8)"
+options: "57e3a72a2865e39529628e09d2127c30539f8f9e1457e92b1fa7b32c05ea3c0f"
+build_start_time: [1648281310, 227226018]
+build_end_time: [1648281314, 117167949]
+inputs:
+  "/Users/dhyainnovations/Desktop/24hrsUserApp-Ganesh/node_modules/@capacitor/ios/Capacitor/Capacitor/Array+Capacitor.swift": [1647944143, 64564228]
+  ? "/Users/dhyainnovations/Desktop/24hrsUserApp-Ganesh/node_modules/@capacitor/ios/Capacitor/Capacitor/CAPApplicationDelegateProxy.swift"
+  : [1647944143, 127990245]
+  "/Users/dhyainnovations/Desktop/24hrsUserApp-Ganesh/node_modules/@capacitor/ios/Capacitor/Capacitor/CAPBridge.swift": [1647944143, 138981342]
+  "/Users/dhyainnovations/Desktop/24hrsUserApp-Ganesh/node_modules/@capacitor/ios/Capacitor/Capacitor/CAPBridgeDelegate.swift": [1647944143, 148583889]
+  "/Users/dhyainnovations/Desktop/24hrsUserApp-Ganesh/node_modules/@capacitor/ios/Capacitor/Capacitor/CAPBridgeProtocol.swift": [1647944143, 160051345]
+  "/Users/dhyainnovations/Desktop/24hrsUserApp-Ganesh/node_modules/@capacitor/ios/Capacitor/Capacitor/CAPBridgeViewController.swift": [1647944143, 186479568]
+  "/Users/dhyainnovations/Desktop/24hrsUserApp-Ganesh/node_modules/@capacitor/ios/Capacitor/Capacitor/CAPFile.swift": [1647944143, 207930564]
+  ? "/Users/dhyainnovations/Desktop/24hrsUserApp-Ganesh/node_modules/@capacitor/ios/Capacitor/Capacitor/CAPInstanceConfiguration.swift"
+  : [1647944143, 256006479]
+  "/Users/dhyainnovations/Desktop/24hrsUserApp-Ganesh/node_modules/@capacitor/ios/Capacitor/Capacitor/CAPInstanceDescriptor.swift": [1647944143, 268251419]
+  "/Users/dhyainnovations/Desktop/24hrsUserApp-Ganesh/node_modules/@capacitor/ios/Capacitor/Capacitor/CAPLog.swift": [1647944143, 281150102]
+  "/Users/dhyainnovations/Desktop/24hrsUserApp-Ganesh/node_modules/@capacitor/ios/Capacitor/Capacitor/CAPNotifications.swift": [1647944143, 286836385]
+  "/Users/dhyainnovations/Desktop/24hrsUserApp-Ganesh/node_modules/@capacitor/ios/Capacitor/Capacitor/CAPPluginCall.swift": [1647944143, 299161195]
+  "/Users/dhyainnovations/Desktop/24hrsUserApp-Ganesh/node_modules/@capacitor/ios/Capacitor/Capacitor/CapacitorBridge.swift": [1647944143, 93595027]
+  "/Users/dhyainnovations/Desktop/24hrsUserApp-Ganesh/node_modules/@capacitor/ios/Capacitor/Capacitor/CapacitorExtension.swift": [1647944143, 116936683]
+  "/Users/dhyainnovations/Desktop/24hrsUserApp-Ganesh/node_modules/@capacitor/ios/Capacitor/Capacitor/Data+Capacitor.swift": [1647944143, 324878692]
+  "/Users/dhyainnovations/Desktop/24hrsUserApp-Ganesh/node_modules/@capacitor/ios/Capacitor/Capacitor/DocLinks.swift": [1647944143, 337655067]
+  "/Users/dhyainnovations/Desktop/24hrsUserApp-Ganesh/node_modules/@capacitor/ios/Capacitor/Capacitor/JS.swift": [1647944143, 343141078]
+  "/Users/dhyainnovations/Desktop/24hrsUserApp-Ganesh/node_modules/@capacitor/ios/Capacitor/Capacitor/JSExport.swift": [1647944143, 355937480]
+  "/Users/dhyainnovations/Desktop/24hrsUserApp-Ganesh/node_modules/@capacitor/ios/Capacitor/Capacitor/JSTypes.swift": [1647944143, 370327949]
+  "/Users/dhyainnovations/Desktop/24hrsUserApp-Ganesh/node_modules/@capacitor/ios/Capacitor/Capacitor/KeyPath.swift": [1647944143, 377422332]
+  ? "/Users/dhyainnovations/Desktop/24hrsUserApp-Ganesh/node_modules/@capacitor/ios/Capacitor/Capacitor/NotificationHandlerProtocol.swift"
+  : [1647944143, 383211851]
+  "/Users/dhyainnovations/Desktop/24hrsUserApp-Ganesh/node_modules/@capacitor/ios/Capacitor/Capacitor/NotificationRouter.swift": [1647944143, 428019762]
+  "/Users/dhyainnovations/Desktop/24hrsUserApp-Ganesh/node_modules/@capacitor/ios/Capacitor/Capacitor/PluginCallResult.swift": [1647944143, 440919876]
+  "/Users/dhyainnovations/Desktop/24hrsUserApp-Ganesh/node_modules/@capacitor/ios/Capacitor/Capacitor/Plugins/Console.swift": [1647944143, 307142019]
+  "/Users/dhyainnovations/Desktop/24hrsUserApp-Ganesh/node_modules/@capacitor/ios/Capacitor/Capacitor/Plugins/WebView.swift": [1647944143, 466143608]
+  "/Users/dhyainnovations/Desktop/24hrsUserApp-Ganesh/node_modules/@capacitor/ios/Capacitor/Capacitor/TmpViewController.swift": [1647944143, 452711105]
+  "/Users/dhyainnovations/Desktop/24hrsUserApp-Ganesh/node_modules/@capacitor/ios/Capacitor/Capacitor/UIColor.swift": [1647944143, 459776401]
+  "/Users/dhyainnovations/Desktop/24hrsUserApp-Ganesh/node_modules/@capacitor/ios/Capacitor/Capacitor/WKWebView+Capacitor.swift": [1647944143, 498702764]
+  "/Users/dhyainnovations/Desktop/24hrsUserApp-Ganesh/node_modules/@capacitor/ios/Capacitor/Capacitor/WebViewAssetHandler.swift": [1647944143, 474489927]
+  ? "/Users/dhyainnovations/Desktop/24hrsUserApp-Ganesh/node_modules/@capacitor/ios/Capacitor/Capacitor/WebViewDelegationHandler.swift"
+  : [1647944143, 487533092]

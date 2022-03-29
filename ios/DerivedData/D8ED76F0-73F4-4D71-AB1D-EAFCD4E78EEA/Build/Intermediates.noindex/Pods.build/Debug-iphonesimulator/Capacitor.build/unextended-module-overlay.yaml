@@ -1,0 +1,14 @@
+{
+  'version': 0,
+  'use-external-names': 'false',
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/dhyainnovations/Desktop/24hrsUserApp-Ganesh/ios/DerivedData/D8ED76F0-73F4-4D71-AB1D-EAFCD4E78EEA/Build/Products/Debug-iphonesimulator/Capacitor/Capacitor.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/dhyainnovations/Desktop/24hrsUserApp-Ganesh/ios/DerivedData/D8ED76F0-73F4-4D71-AB1D-EAFCD4E78EEA/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/unextended-module.modulemap",
+    }]
+  }]
+}

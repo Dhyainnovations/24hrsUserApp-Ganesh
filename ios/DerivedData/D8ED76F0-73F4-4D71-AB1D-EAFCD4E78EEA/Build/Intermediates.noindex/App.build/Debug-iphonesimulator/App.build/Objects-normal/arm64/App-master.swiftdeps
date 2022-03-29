@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.6 (swiftlang-5.6.0.323.62 clang-1316.0.20.8)"
+options: "63d7e020092f989859ec8c277538824d0a50ac9f66e44bc8282fe92049cbd2d3"
+build_start_time: [1648026882, 638915061]
+build_end_time: [1648026884, 471765041]
+inputs:
+  "/Users/dhyainnovations/Desktop/24hrsUserApp-Ganesh/ios/App/App/AppDelegate.swift": [1647664058, 224912643]

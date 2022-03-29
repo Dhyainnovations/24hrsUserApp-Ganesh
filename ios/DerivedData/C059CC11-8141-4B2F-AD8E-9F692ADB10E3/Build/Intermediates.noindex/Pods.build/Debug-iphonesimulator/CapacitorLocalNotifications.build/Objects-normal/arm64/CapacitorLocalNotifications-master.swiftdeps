@@ -1,0 +1,9 @@
+version: "Apple Swift version 5.6 (swiftlang-5.6.0.323.62 clang-1316.0.20.8)"
+options: "770f1554c2c735f91716dab5a25cd24e557de89cbd88c3c88debee899be14c50"
+build_start_time: [1648281314, 393143177]
+build_end_time: [1648281314, 732725143]
+inputs:
+  ? "/Users/dhyainnovations/Desktop/24hrsUserApp-Ganesh/node_modules/@capacitor/local-notifications/ios/Plugin/LocalNotificationsHandler.swift"
+  : [1647978957, 981211662]
+  ? "/Users/dhyainnovations/Desktop/24hrsUserApp-Ganesh/node_modules/@capacitor/local-notifications/ios/Plugin/LocalNotificationsPlugin.swift"
+  : [1647978957, 981346130]
